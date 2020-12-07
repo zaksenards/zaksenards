@@ -5,10 +5,10 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=zaksenards&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=isaacsenards@gmail.com" /></a>
 
-  <a href="#" alt="Telegram">
+  <a href="https://t.me/zaksenards" alt="Telegram">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=Telegram&logoColor=white&link=t.me/zaksenards"/></a>
 </p>
 
