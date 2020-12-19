@@ -1,12 +1,17 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zaksenards&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+### Hi there, Isaac Sena 👋
 
-### Hello, Welcome to my Github! Here you can find some of my projects
+### Connect with me:
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=zaksenards&color=f8efd4&style=for-the-badge&logo=GitHub">
+[<img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111710.svg" />][Telegram]
+[<img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][Twitter]
 
-<p align="left">
-  <a href="https://t.me/zaksenards" alt="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=Telegram&logoColor=white&link=t.me/zaksenards"/></a>
-</p>
 
-<hr>
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="C++" width="30px" top="1px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/c-file-1931002-1633582.png" />
+<img align="left" alt="NVim" width="30px" src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
