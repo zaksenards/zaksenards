@@ -16,4 +16,4 @@ int main(int argc, char* argv[])
 ```
 
 ## Get in touch
-[Discord](https://discord.com/users/0934)
+    [Discord](https://www.discord.com/users/0934)
