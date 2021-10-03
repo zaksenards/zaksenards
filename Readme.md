@@ -1,6 +1,6 @@
 # Hi there Welcome to my Github! I'm Isaac Sena, Software developer
 
-### about.h
+### aboutMe.cpp
 ```c++
 int main(int argc, char* argv[])
 {
