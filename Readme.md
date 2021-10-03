@@ -2,6 +2,9 @@
 
 ### aboutMe.cpp
 ```c++
+#include <Programmer.h>
+#include <cstdio>
+
 int main(int argc, char* argv[])
 {
     struct Programmer me;
