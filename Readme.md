@@ -1,4 +1,4 @@
-# Hi there Welcome to my Github! I'm Isaac Sena, Software developer
+# Hi there Welcodev to my Github! I'm Isaac Sena, Software developer
 
 ### aboutMe.cpp
 ```c++
@@ -7,9 +7,13 @@
 
 int main(int argc, char* argv[])
 {
-    struct Programmer me;
-    me.name = "Isaac Sena";
-    me.age  = 20;
-    me.skills =  CPP | PYTHON | GIT | GITHUB;
+    struct Programmer dev;
+    dev.name = "Isaac Sena";
+    dev.skills =  CPP    | PYTHON | CMAKE;
+    dev.tools  =  GIT    | GITHUB | VIM;
+    dev.apis   =  OpenGL | WINAPI; 
 }
 ```
+
+## Get in touch
+[Discord](discord.com/users/0934)
