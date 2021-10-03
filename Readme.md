@@ -14,6 +14,3 @@ int main(int argc, char* argv[])
     dev.apis   =  OpenGL | WINAPI; 
 }
 ```
-
-## Get in touch
-    [Discord](https://www.discord.com/users/0934)
