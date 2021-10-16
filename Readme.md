@@ -1,4 +1,4 @@
-# Hi there Welcodev to my Github! I'm Isaac Sena, Software developer
+# Hi there Welcome to my Github! I'm Isaac Sena, Software developer
 
 ### aboutMe.cpp
 ```c++
