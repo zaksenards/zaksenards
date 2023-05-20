@@ -1,1 +1,1 @@
-#### Just someone who loves game development
+### Here you can find some of my personal projects
